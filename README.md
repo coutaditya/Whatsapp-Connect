@@ -9,3 +9,5 @@ To get started with WhatsApp Connect, follow these steps:
 1. Clone this repository using `git clone https://github.com/coutaditya/Whatsapp-Connect.git`
 2. Install dependencies using `npm install`
 3. Run the app using `npm start`
+
+[Whatsapp Connect](https://whatsapp-connect.netlify.app/)
